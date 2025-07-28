@@ -1,2 +1,2 @@
 # Thrash
-A golang load testing cli application
+A CLI application for load testing
